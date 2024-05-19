@@ -1,0 +1,3 @@
+C:/Users/Megaport/Downloads/Project-C-main (1)/cmake-build-debug/CMakeFiles/Project_C_main__1_.dir
+C:/Users/Megaport/Downloads/Project-C-main (1)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Megaport/Downloads/Project-C-main (1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
